@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-dentist/static/css/main.a4cdea81.css",
+    "main.js": "/simple-dentist/static/js/main.3cd986f6.js",
+    "static/js/787.aeaf5e1b.chunk.js": "/simple-dentist/static/js/787.aeaf5e1b.chunk.js",
+    "index.html": "/simple-dentist/index.html",
+    "main.a4cdea81.css.map": "/simple-dentist/static/css/main.a4cdea81.css.map",
+    "main.3cd986f6.js.map": "/simple-dentist/static/js/main.3cd986f6.js.map",
+    "787.aeaf5e1b.chunk.js.map": "/simple-dentist/static/js/787.aeaf5e1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4cdea81.css",
+    "static/js/main.3cd986f6.js"
+  ]
+}
